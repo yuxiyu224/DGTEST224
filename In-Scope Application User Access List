@@ -1,0 +1,48 @@
+In-Scope Application User Access List
+
+(System-Generated Snapshot – Test Data)
+
+1. Purpose
+
+This document provides a complete and accurate list of users for all in-scope applications, including the creation and/or last modification date of the access population.
+The list is used to demonstrate that logical access to applications is restricted to authorized users.
+
+2. In-Scope Applications
+
+The following applications are included within audit scope:
+
+Customer Management Application (Production)
+
+Internal Admin Portal (Production)
+
+Issue Tracking System (Production)
+
+Document Management System (Production)
+
+3. Application User Access List
+Application Name	User Name	User ID	Email Address	Role	Access Level	Account Created Date	Last Modified Date	Account Status
+Customer App	Alice Chen	app-u-10231	alice.chen@company.com
+	Application Admin	Full Access	2024-10-12	2025-09-18	Active
+Customer App	Brian Lee	app-u-10477	brian.lee@company.com
+	Standard User	Read / Write	2024-11-05	2025-10-02	Active
+Admin Portal	Cynthia Wong	app-u-10902	cynthia.wong@company.com
+	System Administrator	Privileged	2024-09-20	2025-08-30	Active
+Admin Portal	David Park	app-u-11184	david.park@company.com
+	Platform Engineer	Privileged	2024-12-01	2025-11-01	Active
+Issue Tracker	Emily Zhao	app-u-11509	emily.zhao@company.com
+	Project Manager	Standard Access	2025-01-10	2025-09-22	Active
+Issue Tracker	Frank Liu	app-u-11842	frank.liu@company.com
+	Developer	Standard Access	2025-02-14	2025-10-12	Active
+Document System	Grace Kim	app-u-12007	grace.kim@company.com
+	Content Manager	Edit	2024-10-30	2025-08-15	Active
+Document System	Henry Zhou	app-u-12196	henry.zhou@company.com
+	Viewer	Read-Only	2025-03-05	2025-11-20	Active
+4. Notes
+
+This list represents a system-generated snapshot of application user access as of 2025-12-24.
+
+Creation and modification dates reflect account provisioning or access changes, where available.
+
+Access is granted based on role-based access control (RBAC) and business need.
+
+No inactive or terminated users are included in this population.
